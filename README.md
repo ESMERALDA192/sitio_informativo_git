@@ -4,3 +4,6 @@
 
     Autor : Esmeralda Gonzalez
 
+
+   Proximas Mejoras: Mejorar la calidad de impresora, Mejorar el cuidado de alimentos, poder sembrar mas comida
+
