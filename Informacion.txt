@@ -1,0 +1,7 @@
+
+  Objetivo del proyecto: Cuidar y sembrar comida sin contaminacion
+
+  Publico: Personas sobrevivientes
+
+  Caracteristicas: Comida sana,Cuidado tecnologico,Reporte diario
+  
